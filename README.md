@@ -5,15 +5,15 @@
 [![Pandas](https://img.shields.io/badge/Pandas-3.0-yellow.svg)](https://pandas.pydata.org/)
 [![Status](https://img.shields.io/badge/Status-In%20Progress-orange.svg)]()
 
-## 📋 Exercise Summary
+## Exercise Summary
 
 This project implements **logistic regression from scratch** for heart disease prediction, covering:
 
-- ✅ **Step 1: Data Loading & Preprocessing** - COMPLETED
-- 🔄 **Step 2: Basic Logistic Regression Implementation** - In Progress
-- ⏳ **Step 3: Decision Boundary Visualization** - Pending
-- ⏳ **Step 4: Regularization (L2)** - Pending
-- ⏳ **Step 5: AWS SageMaker Deployment** - Pending
+- **Step 1: Data Loading & Preprocessing** 
+- **Step 2: Basic Logistic Regression Implementation**
+- **Step 3: Decision Boundary Visualization**
+- **Step 4: Regularization (L2)**
+- **Step 5: AWS SageMaker Deployment**
 
 ### Key Features
 - **Custom implementations** of sigmoid, cost function, and gradient descent (no scikit-learn for core training)
@@ -25,7 +25,7 @@ This project implements **logistic regression from scratch** for heart disease p
 
 ---
 
-## 📊 Dataset Description
+## Dataset Description
 
 ### Source
 **Kaggle Heart Disease Dataset**  
@@ -51,13 +51,13 @@ This project implements **logistic regression from scratch** for heart disease p
 | **Number of vessels fluro** | Major vessels colored by fluoroscopy (0-3) | 0-3 | +0.455 (strong positive) |
 
 ### Data Quality
-✓ **No missing values**  
-✓ **Relatively balanced classes** (44.4% / 55.6%)  
-✓ **Outliers preserved** (valid extreme clinical cases)
+**No missing values**  
+**Relatively balanced classes** (44.4% / 55.6%)  
+**Outliers preserved** (valid extreme clinical cases)
 
 ---
 
-## 🚀 Step 1 Progress: Data Loading & Preparation ✅
+## Step 1 Progress: Data Loading & Preparation ✅
 
 ### Completed Tasks
 
